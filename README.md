@@ -40,5 +40,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-p-a469931b3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-P%20Rohit-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/ro_hit.ronaldo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ro_hit Ronaldo-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:roguedante@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-roguedante@protonmail.com-blue?style=flat-square&logo=gmail"></a>
