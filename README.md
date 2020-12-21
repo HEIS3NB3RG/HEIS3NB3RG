@@ -8,7 +8,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Pursuing Masters in Cybersecuirt
 
 - 🔭 I’m currently working on taking rest  
 - 🌱 I’m currently learning about Pentesting , Linux Systems.
-- 👯 I’m looking to collaborate with any For-Beginners CTF Team.
+- 👯 I’m looking to collaborate with any Beginners type CTF Teams.
 - 🤔 I’m looking for help in learning about art of exploitation.
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roguedante@protonmail.com)](mailto:roguedante@protonmail.com)
