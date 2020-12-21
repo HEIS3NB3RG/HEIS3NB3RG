@@ -1,43 +1,30 @@
+<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
 
 
-<h2> Hey there! I'm Rohit.</h2>
+<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Rohit <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+I'm a Computer Science Enthusiast  👨‍💻, Pursuing Masters in Cybersecuirty at Amrita Vishwa Vidyapeetham 👨‍🎓
 
-- 🤔 &nbsp; Exploring new technologies and learning the art of exploitation.
-- 🎓 &nbsp; Studying Cybersecurity at Amrita Vishwa Vidyapeetham.
-- 🌱 &nbsp; Learning more about Pentesting.
-- ✍️ &nbsp; Pursuing Video editing and taking short films as hobbies/side hustles.
+- 🔭 I’m currently working on taking rest  
+- 🌱 I’m currently learning about Pentesting , Linux Systems.
+- 👯 I’m looking to collaborate with any For-Beginners CTF Team.
+- 🤔 I’m looking for help in learning about art of exploitation.
+- 💬 Ask me about anything and everything 
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roguedante@protonmail.com)](mailto:roguedante@protonmail.com)
+- ⚡ Fun fact: Jack of all trades , Master of None ! 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<br/>
-
-<a href="https://github.com/HEIS3NB3RG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HEIS3NB3RG&theme=buefy&show_icons=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEIS3NB3RG&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### Some Stats About Rohit (Public Only)
+<p align="center" >
+<img alt="Rohit's github stats" src="https://github-readme-stats.vercel.app/api?username=HEIS3NB3RG-byte&show_icons=true&theme=merko"  > </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rohit-p-a469931b3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-P%20Rohit-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ro_hit.ronaldo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ro_hit Ronaldo-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:roguedante@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-roguedante@protonmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_raghavit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_raghavit" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://dev.to/raghavbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@raghavbyte" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+</p>
+
+
+⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
