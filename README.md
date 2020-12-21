@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and learning the art of exploitation.
 - 🎓 &nbsp; Studying Cybersecurity at Amrita Vishwa Vidyapeetham.
 - 🌱 &nbsp; Learning more about Pentesting.
 - ✍️ &nbsp; Pursuing Video editing and taking short films as hobbies/side hustles.
