@@ -2,7 +2,7 @@
 
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Rohit <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HEIS3NB3RG" alt="HEIS3NB3RG" /> </p>
 
 I'm a Computer Science Enthusiast  👨‍💻, Pursuing Masters in Cybersecuirty at Amrita Vishwa Vidyapeetham 👨‍🎓
 
