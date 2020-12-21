@@ -25,5 +25,3 @@ I'm a Computer Science Enthusiast  👨‍💻, Pursuing Masters in Cybersecuirt
 <a href="https://instagram.com/ro_hit.ronaldo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ro_hit ronaldo" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
 
-
-⭐️ From [Rohit](https://github.com/HEIS3NB3RG)
