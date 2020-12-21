@@ -17,7 +17,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Pursuing Masters in Cybersecuirt
 
 ### Some Stats About Rohit (Public Only)
 <p align="center" >
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HEIS3NB3RG&theme=buefy&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HEIS3NB3RG&theme=merko&show_icons=true" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rohit-p-a469931b3/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="rohit_p" height="25" width="25" /></a>&nbsp;&nbsp;
